@@ -1,7 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed038702-6b49-4e45-950f-98fb253ac17d" name="Default" comment="" />
+    <list default="true" id="ed038702-6b49-4e45-950f-98fb253ac17d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Dual sequence.iml" afterPath="$PROJECT_DIR$/.idea/Dual sequence.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Data/0_0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_10" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_11" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/0_9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/1_0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/1_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/2_0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/2_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/3_0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/3_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/4_0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/4_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-0-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-0-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-0-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-0-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-0-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-1-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-1-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-1-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-1-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-1-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-2-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-2-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-2-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-2-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-2-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-3-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-3-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-3-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-3-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-3-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-4-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-4-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-4-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-4-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-4-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-5-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-5-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-5-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-5-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-5-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-6-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-6-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-6-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-6-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P001-6-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-0-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-0-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-0-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-0-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-0-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-0-5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-0-6.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-0-7.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-1-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-1-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-1-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-1-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-1-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-2-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-2-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-2-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-2-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-2-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-3-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-3-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-3-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-3-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-3-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-4-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-4-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-4-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-4-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-4-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-5-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-5-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-5-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-5-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-5-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-6-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-6-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-6-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-6-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P002-6-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-0-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-0-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-0-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-0-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-0-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-1-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-1-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-1-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-1-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-1-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-2-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-2-1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-2-2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-2-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-2-4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data/P999-3-0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
+      <change beforePath="$PROJECT_DIR$/gui.py" afterPath="$PROJECT_DIR$/gui.py" />
+      <change beforePath="$PROJECT_DIR$/myexp.py" afterPath="$PROJECT_DIR$/myexp.py" />
+      <change beforePath="$PROJECT_DIR$/studylogic.py" afterPath="$PROJECT_DIR$/studylogic.py" />
+      <change beforePath="$PROJECT_DIR$/utility.py" afterPath="$PROJECT_DIR$/utility.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,14 +130,27 @@
     <SUITE FILE_PATH="coverage/Dual_sequence$sort.coverage" NAME="sort Coverage Results" MODIFIED="1514948373447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Baycrest/Amir_Baycrest" />
     <SUITE FILE_PATH="coverage/Dual_sequence$Main.coverage" NAME="Main Coverage Results" MODIFIED="1515012541812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Dual_sequence$gui.coverage" NAME="gui Coverage Results" MODIFIED="1511556110469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dual_Sequence$Main.coverage" NAME="Main Coverage Results" MODIFIED="1536516299194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myexp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myexp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -29,18 +159,8 @@
       <file leaf-file-name="studylogic.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studylogic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="104" column="46" lean-forward="true" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myexp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myexp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="-232">
+              <caret line="141" column="12" lean-forward="false" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -49,21 +169,11 @@
       <file leaf-file-name="gui.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-400">
-              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state relative-caret-position="229">
+              <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
               <folding>
                 <element signature="e#0#62#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utility.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utility.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="67" column="81" lean-forward="false" selection-start-line="67" selection-start-column="81" selection-end-line="67" selection-end-column="81" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -101,7 +211,13 @@
       <find>textstim</find>
       <find>speed</find>
       <find>acquire_target_time</find>
+      <find>garage</find>
+      <find>audioLib</find>
+      <find>sound</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,9 +225,10 @@
         <option value="$PROJECT_DIR$/explogic.py" />
         <option value="$PROJECT_DIR$/../../Baycrest/Amir_Baycrest/sort.py" />
         <option value="/Volumes/Ryan3T1/myStudies/phdThesisData/Scripts/PreProcess/Put_labels_together.py" />
-        <option value="$PROJECT_DIR$/Main.py" />
-        <option value="$PROJECT_DIR$/gui.py" />
         <option value="$PROJECT_DIR$/utility.py" />
+        <option value="$USER_HOME$/miniconda3/envs/py27/lib/python2.7/site-packages/psychopy/sound.py" />
+        <option value="$PROJECT_DIR$/gui.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/myexp.py" />
         <option value="$PROJECT_DIR$/studylogic.py" />
       </list>
@@ -161,19 +278,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Dual sequence" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dual sequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Dual-Sequence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dual-Sequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,21 +408,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844576" sideWeight="0.49676898" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27333334" sideWeight="0.53046876" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45254472" sideWeight="0.50159746" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16231087" sideWeight="0.46953124" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32844576" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10743134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21182944" sideWeight="0.46953124" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4511692" sideWeight="0.50159746" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46153846" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1196443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Google Cloud Storage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38376892" sideWeight="0.49676898" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -366,18 +483,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="64" />
+      <option name="time" value="67" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/studylogic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -639,19 +749,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Volumes/Ryan3T1/myStudies/phdThesisData/Scripts/PreProcess/Put_labels_together.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///Volumes/Ryan3T1/myStudies/phdThesisData/Scripts/PreProcess/Put_labels_together.py" />
     <entry file="file://$USER_HOME$/miniconda3/envs/py27/lib/python2.7/site-packages/psychopy/visual/line.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="527" column="0" lean-forward="false" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,14 +775,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="2811" column="0" lean-forward="false" selection-start-line="2811" selection-start-column="0" selection-end-line="2811" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/envs/py27/lib/python2.7/site-packages/psychopy/sound.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1123">
+          <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        <state relative-caret-position="229">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding>
             <element signature="e#0#62#0" expanded="true" />
           </folding>
@@ -691,32 +805,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="67" column="81" lean-forward="false" selection-start-line="67" selection-start-column="81" selection-end-line="67" selection-end-column="81" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myexp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state relative-caret-position="315">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/studylogic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="104" column="46" lean-forward="true" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="46" />
+        <state relative-caret-position="-232">
+          <caret line="141" column="12" lean-forward="false" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
           <folding />
         </state>
       </provider>

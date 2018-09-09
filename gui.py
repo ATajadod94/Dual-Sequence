@@ -5,12 +5,12 @@ import math
 red = (255,0,0)
 green = (0,255,0)
 blue = (0,0,255)
-darkBlue = (0,0,128)
-white = (255,255,255)
-black = (0,0,0)
 pink = (255,200,200)
 lightgrey = (83, 79, 75)
 darkgrey = (222, 212, 201)
+darkBlue = (0,0,128)
+white = (255,255,255)
+black = (0,0,0)
 
 def getparticipant(cfg):
     expName = cfg['exp_name']
@@ -24,14 +24,14 @@ def getparticipant(cfg):
 
 
 def window(cfg):
-    mon = monitors.Monitor('Ali', width = 47)
-    mon.setSizePix([1680,1050])
-    #win = visual.Window(size =[320,200], color=(0, 0, 0), units='cm', fullscr=False, monitor=mon)
-    win = visual.Window(size=[1000, 800], color=(0, 0, 0), units='cm', fullscr=False, monitor=mon)
+    mon = monitors.Monitor('Ali', width=47)
+    mon.setSizePix([1680, 1050])
+    win = visual.Window(size=[500 , 500], color=(0, 0, 0), units='cm', fullscr=False, monitor=mon)
+    #win = visual.Window(size=[1680 , 1050], color=(0, 0, 0), units='cm', fullscr=True, monitor=mon)
     cfg['win'] = win
-    cm_size = tools.monitorunittools.pix2cm(win.size, mon)
-    cfg['width'] = cm_size[0]
-    cfg['height'] = cm_size[1]
+    cmsize = tools.monitorunittools.pix2cm(win.size, mon)
+    cfg['width'] = cmsize[0]
+    cfg['height'] = cmsize[1]
     cfg['winpos'] = win.pos
     return cfg
 
@@ -58,9 +58,10 @@ def cursorstim(cfg):
 
 
 def soundstim(cfg):
-    sound.init(rate=44100, stereo=True, buffer=128)
-    cfg['sound'] = sound.Sound('ding.wav')
-    return cfg
+    pass
+#    sound.init(rate=44100, stereo=True, buffer=128)
+#    cfg['sound'] = sound.Sound('ding.wav', secs = 1)
+#    return cfg
 
 
 def mousestim(cfg):
@@ -114,10 +115,6 @@ def garagestim(cfg, target_position, garage_distance, garage_location):
                                end=(garagebottomright[0], garagebottomright[1]))
 
 
-    garage_bottom.opacity = 0.1
-    garage_top.opacity = 0.1
-    garage_left.opacity = 0.1
-    garage_right.opacity = 0.1
 
     garage_left = garage_right
 
@@ -127,6 +124,7 @@ def garagestim(cfg, target_position, garage_distance, garage_location):
 
 def textstim(cfg):
      cfg['textstim'] = visual.TextStim(cfg['win'], text="TOO SLOW!", pos=(0,0), bold=True)
+     cfg['slowstim'] = visual.TextStim(cfg['win'], text="STAY STILL!", pos=(0,0), bold=True)
      return cfg
 
 def instructions(cfg, blockname):
