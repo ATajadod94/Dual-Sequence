@@ -14,7 +14,7 @@ cfg = homestim(cfg)
 cfg = mousestim(cfg)
 cfg = cursorstim(cfg)
 cfg = textstim(cfg)
-#cfg = soundstim(cfg)
+cfg = soundstim(cfg)
 seed(int(cfg['P_number']) + sum([ord(x) for x in 'garage experiment']))
 
 if not os.path.isdir('Data'):

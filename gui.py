@@ -1,4 +1,4 @@
-from psychopy import visual, data, event, monitors, tools, gui
+from psychopy import visual, data, event, monitors, tools, gui, sound
 import math
 
 #Colors
@@ -58,10 +58,9 @@ def cursorstim(cfg):
 
 
 def soundstim(cfg):
-    pass
-#    sound.init(rate=44100, stereo=True, buffer=128)
-#    cfg['sound'] = sound.Sound('ding.wav', secs = 1)
-#    return cfg
+    sound.init(rate=44100, stereo=True, buffer=128)
+    cfg['sound'] = sound.Sound('ding.wav', secs = 1)
+    return cfg
 
 
 def mousestim(cfg):

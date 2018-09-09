@@ -176,7 +176,7 @@ def runtrial(cfg, block, trial_number):
                         cfg['home_stim'].opacity = 1
                 else:
                     trial_data['step'] = 'reach_target'
-                    #cfg['sound'].play()
+                    cfg['sound'].play()
                     trial_data['left_target'] = 1
 
         elif trial_data['step'] is 'reach_home':
