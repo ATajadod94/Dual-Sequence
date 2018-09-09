@@ -47,7 +47,10 @@ def runblock(block, cfg):
     if block['number'] != 3:
        instructions(cfg, block['block_name'])
     for trial_number in range(0, block['num_trials']):
-        runtrial(cfg, block, trial_number)
+        try:
+            runtrial(cfg, block, trial_number)
+        except:
+            exit()
 
 
 def runtrial(cfg, block, trial_number):
@@ -71,7 +74,7 @@ def runtrial(cfg, block, trial_number):
     trial_data['target_angle'] = block['target_angles'][trial_number]
     trial_data['target_pos'] = block['target_stim'][trial_number].pos
     trial_data['garage_pos'] = block['garage_stim'][trial_number][2].end
-    trial_data['clamp_movement'] = steps(trial_data['target_pos'][0],trial_data['garage_pos'][0],100)
+    trial_data['clamp_movement'] = steps(trial_data['target_pos'][0], trial_data['garage_pos'][0],100)
 
 
     cfg['mouse'].setVisible(False)
@@ -90,8 +93,8 @@ def runtrial(cfg, block, trial_number):
         response = event.getKeys()
         if 'escape' in response:
             cfg['win'].close()
-            break
             exit()
+
         cfg['cursorstim'].pos = trial_data['cursor_pos'][-1]
         cfg['home_stim'].draw()
         cfg['cursorstim'].draw()
