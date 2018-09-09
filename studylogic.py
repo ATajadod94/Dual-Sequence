@@ -162,6 +162,9 @@ def runtrial(cfg, block, trial_number):
 
         elif trial_data['step'] is 'reach_garage':
                 trial_data['num_step'].append(4)
+
+                block['target_stim'][trial_number].opacity = 0
+
                 if acquire_target(cfg, block, trial_data):
                     clock_position = int(1.75*(trial_data['time'][-1] - trial_data['hold_on_targetstart']) / 0.010)
                     new_pos = [trial_data['clamp_movement'][clock_position], trial_data['target_pos'][1]]

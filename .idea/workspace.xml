@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed038702-6b49-4e45-950f-98fb253ac17d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/studylogic.py" afterPath="$PROJECT_DIR$/studylogic.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
     <SUITE FILE_PATH="coverage/Dual_sequence$sort.coverage" NAME="sort Coverage Results" MODIFIED="1514948373447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Baycrest/Amir_Baycrest" />
     <SUITE FILE_PATH="coverage/Dual_sequence$Main.coverage" NAME="Main Coverage Results" MODIFIED="1515012541812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Dual_sequence$gui.coverage" NAME="gui Coverage Results" MODIFIED="1511556110469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Dual_Sequence$Main.coverage" NAME="Main Coverage Results" MODIFIED="1536516456532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dual_Sequence$Main.coverage" NAME="Main Coverage Results" MODIFIED="1536516839711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -45,8 +44,8 @@
       <file leaf-file-name="studylogic.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studylogic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            <state relative-caret-position="615">
+              <caret line="165" column="58" lean-forward="false" selection-start-line="165" selection-start-column="58" selection-end-line="165" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -97,9 +96,10 @@
       <find>textstim</find>
       <find>speed</find>
       <find>acquire_target_time</find>
-      <find>garage</find>
       <find>audioLib</find>
       <find>sound</find>
+      <find>garage</find>
+      <find>target_stim</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -710,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studylogic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        <state relative-caret-position="615">
+          <caret line="165" column="58" lean-forward="false" selection-start-line="165" selection-start-column="58" selection-end-line="165" selection-end-column="58" />
           <folding />
         </state>
       </provider>
